@@ -1,10 +1,5 @@
-# labo-3-research-nickboone
-# labo-3-research-nickboone
-# labo-3-research-nickboone
-# labo-3-research-nickboone
-# labo-3-research-nickboone
-# labo-3-research-nickboone
-# labo-3-research-nickboone
-# labo-3-research-nickboone
-# labo-3-ifttt-doors-nickboone
-# labo-3-ifttt-doors-nickboone
+# labo-2-app-character-generator-nickboone
+
+### Nick Boone
+### 3MMP NMD
+### Arteveldehogeschool
